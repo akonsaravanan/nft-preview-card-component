@@ -61,7 +61,7 @@ img {
 .container {
   position: relative;
   background-color: var(--dark-blue-card-BG);
-  margin: 20px auto;
+  margin: 80px auto;
   max-width: 400px;
   display: flex;
   flex-direction: column;
